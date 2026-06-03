@@ -51,7 +51,7 @@ I'm a data analyst with a passion for transforming messy, complex datasets into 
 
 ## 📂 Featured Projects
 
-### 🎬 [Sakila DVD Rental — Business Analysis](https://github.com/Abdulrazaq282/Abdulrazaq-s-Portfollio/tree/main/sakila-dvd-rental-analysis)
+### 🎬 [Laron Rental — Business Analysis](https://github.com/Abdulrazaq282/Abdulrazaq-s-Portfollio/tree/main/laron-rental-analysis)
 > End-to-end business intelligence analysis on a PostgreSQL DVD rental database.  
 > Covers revenue trends, customer lifetime value, category performance, and store comparisons.  
 > **Stack:** Python · PostgreSQL · Pandas · Matplotlib · Seaborn

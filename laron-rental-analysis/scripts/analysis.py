@@ -1,5 +1,5 @@
 """
-Sakila DVD Rental Business Analysis
+Laron Rental Business Analysis
 Author: Abdulrazaq SHOLA
 Description: End-to-end analysis of a DVD rental business using the Sakila database.
              Covers revenue trends, customer behaviour, film performance, and store comparisons.

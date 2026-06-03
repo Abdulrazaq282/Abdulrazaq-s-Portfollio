@@ -1,4 +1,4 @@
-# 🎬 Sakila DVD Rental — Business Analysis
+# 🎬 Laron Rental — Business Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -64,7 +64,7 @@
 ## 🗂️ Project Structure
 
 ```
-sakila-dvd-rental-analysis/
+laron-rental-analysis/
 │
 ├── scripts/
 │   └── analysis.py          # Full analysis & visualisation script
@@ -100,7 +100,7 @@ sakila-dvd-rental-analysis/
 ```bash
 # 1. Clone the repo
 git clone https://github.com/Abdulrazaq282/Abdulrazaq-s-Portfollio.git
-cd Abdulrazaq-s-Portfollio/sakila-dvd-rental-analysis
+cd Abdulrazaq-s-Portfollio/laron-rental-analysis
 
 # 2. Install dependencies
 pip install pandas matplotlib seaborn numpy
